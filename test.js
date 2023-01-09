@@ -15,13 +15,16 @@ const tomorrow = formattedDate(
 
 const expectedOutput = `My Todo-list
 
+
 Overdue
 [ ] Submit assignment ${yesterday}
+
 
 
 Due Today
 [x] Pay rent
 [ ] Service Vehicle
+
 
 
 Due Later
